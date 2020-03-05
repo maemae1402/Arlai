@@ -1,0 +1,12 @@
+{
+"name": "Test",
+"description": "Test",
+"version": "0.0.0",
+"main": "Arlai.js",
+"scripts": {
+    "start": node Arlai.js"
+}
+"dependancies": {
+    "discord.js": "11.1.0"
+    }
+}
